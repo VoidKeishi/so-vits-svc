@@ -70,10 +70,6 @@
       "use_transformer_flow": false
     },
     "spk": {
-      "nyaru": 0,
-      "huiyu": 1,
-      "nen": 2,
-      "paimon": 3,
-      "yunhao": 4
+      "vvspeaker1": 0
     }
   }
